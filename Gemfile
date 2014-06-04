@@ -46,4 +46,4 @@ end
 gem 'debugger', group: [:development, :test]
 gem 'spring', group: :development
 gem 'active_model_serializers'
-
+gem 'rails_12factor', group: :production
